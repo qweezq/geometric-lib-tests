@@ -98,6 +98,9 @@
 ---
 
 ## История изменения проекта
+- e02b092 add unit tests
+- 17f8dc1 add documentation
+- 9980345 add docstrings to all functions
 - 9226055 fix rectangle.py and new file triangle.py
 - 6842f51 new file rectangle.py
 - d078c8d L-03: Docs added
